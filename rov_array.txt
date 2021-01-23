@@ -1,0 +1,1 @@
+var ROV_ARRAY = ['Variavel 01','Variavel 02','Variavel 03','Variavel 04'];
